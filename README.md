@@ -1,5 +1,5 @@
 # Sign the Box Contributor License Agreement (CLA)
 
-Box uses CLA Assistant to manage Github contributions to our open source repositories.
+Box uses “CLA Assistant” to manage signatures of this legal agreement. To sign our CLA, please access the link below:
 
-To sign our agreement, please access the following link: https://cla-assistant.io/box/cla
+### https://cla-assistant.io/box/cla
